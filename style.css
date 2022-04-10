@@ -1,9 +1,0 @@
-body {
-    font-size: 15pt;
-    background:black ;
-}
-@media all and (max-width:500px){
-  body{
-    background: white;
-  }
-}
